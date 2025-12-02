@@ -1,0 +1,6 @@
+{
+    "id": "9ce26b39-6600-47d2-8baf-6b457aa35618",
+    "name": "In-database Fin Fraud Prediction XGB",
+    "description": "In-database XGB for Financial Fraud Prediction",
+    "language": "python"
+}
